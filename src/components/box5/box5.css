@@ -1,0 +1,19 @@
+.tagss {
+  margin-top: 40px;
+  width: 400px;
+  height: 273px;
+  box-shadow: 40px 60px 50px 47px rgba(72, 85, 106, 0.1);
+}
+.tagsdiv{
+  width:400px ;
+  height: 70px ;
+  display: flex;
+  align-items: start;
+  background-color: rgb(223, 222, 222);
+}
+.buttondiv{
+  margin-top: 40px; 
+}
+.buttondiv button {
+  margin-bottom: 10px;
+}

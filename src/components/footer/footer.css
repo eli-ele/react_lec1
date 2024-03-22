@@ -1,0 +1,33 @@
+.footerbtncolor button{
+    background-color: rgb(139, 139, 139);
+    color: white;
+}
+.footerbtncolor button:hover{
+    cursor: pointer;
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+.footer {
+    background-color: rgb(88, 88, 88);
+    height:150px;
+    display:grid;
+    padding-top: 30px;
+}
+.foottext {
+    color: white;
+}
+a {
+    color: white;
+}
+.footerbtncolor{
+    width: 150px;
+    height: 60px;
+}
+.footerbtn{
+    display: flex;
+}
+.foottext{
+    width: 200px;
+    height:100px ;
+    margin: 20px;
+  }
